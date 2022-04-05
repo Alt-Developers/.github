@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center" style="display: flex; align-items: center;">
+    <img src="/assets/images/ssLogo.png" height="100" width="100" />
+    <h1 style="font-weight: bold; margin: none; text-decoration: none;">SS Developers</h1>
+</div>
+
+Currently we are a duo developer group consisting of Prawich Thawansakdivudhi - Lead Backend Developer and Jirat Chutrakul - Lead Frontend and UI/UX developer
 
 <!--
 
