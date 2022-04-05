@@ -1,9 +1,21 @@
-<div align="center" style="display: flex; align-items: center;">
-    <img src="/assets/images/ssLogo.png" height="100" width="100" />
-    <h1 style="font-weight: bold; margin: none; text-decoration: none;">SS Developers</h1>
+<!-- <div align="center" style="display: flex; align-items: center;">
+    <img src="/assets/images/logo%20long.png" height="100"/>
 </div>
 
+--- -->
+
+<!-- # Welcome to Timetable 🎉
+
 Currently we are a duo developer group consisting of Prawich Thawansakdivudhi - Lead Backend Developer and Jirat Chutrakul - Lead Frontend and UI/UX developer
+
+## **Featured Products**
+
+- Timetables - [Site](https://timetables.ssdevelopers.xyz) | [Repository](https://github.com/SS-Developers/Timetables)
+- SS APIs - [Repository](https://github.com/SS-Developers/SS-APIs) -->
+
+<div style="background: #EEE; padding: 20px; border-radius: 11px;">
+    <h1 style="font-weight: bold; padding: 20px; background: #fd5252; border-radius: 11px"> Welcome to SS Developers</h1>
+</div>
 
 <!--
 
