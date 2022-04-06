@@ -1,5 +1,5 @@
 <div align="center">
-<img src="../assets/images/ss-long.png" height="100" />
+<img src="./ss-long.png" height="100" />
 </div>
 
 ---
