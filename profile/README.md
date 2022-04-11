@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./ss-long.png" height="100" />
+<a href="https://ibb.co/27Pd5rG"><img style="width: 100%" src="https://i.ibb.co/Y78hbSH/Mac-Book-Pro-14-11.png" alt="Mac-Book-Pro-14-11" border="0" /></a>
 </div>
 
 ---
