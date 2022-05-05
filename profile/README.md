@@ -4,12 +4,8 @@
 
 ---
 
-Currently we are a duo developer group consisting of Prawich Thawansakdivudhi - Lead Backend Developer and Jirat Chutrakul - Lead Frontend and UI/UX developer
-
-## **Featured Products**
-
-- Timetables - [Site](https://timetables.ssdevelopers.xyz) | [Repository](https://github.com/SS-Developers/Timetables)
-- SS APIs - [Repository](https://github.com/SS-Developers/SS-APIs)
+## **Tale of two developers and a dream.**
+SS Developers is a duo developer group developing web-applications and cross platform applications, who started the coding journey back in september of 2021. We are only developing apps as a hobby not professionaly, with [Prawich Thawansakdivudhi](https://github.com/SEN-SENSATION) developing server-side related stuff with NodeJS and MongoDB and [Jirat Chutrakul](https://github.com/Jiraties) developing the frontend with frameworks like React and Flutter.
 
 <!--
 
