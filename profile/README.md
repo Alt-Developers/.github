@@ -1,10 +1,9 @@
 <div align="center">
-<a href="https://ibb.co/k4KpD34"><img style="width: 100%" src="https://i.ibb.co/rxkgpbx/Github-Org-Banner.png" alt="Github-Org-Banner" border="0" /></a>
+<a href="https://ibb.co/84JP3jb"><img style="width: 100%" src=https://i.ibb.co/NnXWhLr/Github-Org-Banner.png" alt="Github-Org-Banner" border="0" /></a>
 </div>
 
 ---
 
-## **Tale of two developers and a dream.**
 SS Developers is a duo developer group developing web-applications and cross platform applications, who started the coding journey back in september of 2021. We are only developing apps as a hobby not professionaly, with [Prawich Thawansakdivudhi](https://github.com/SEN-SENSATION) developing server-side related stuff with NodeJS and MongoDB and [Jirat Chutrakul](https://github.com/Jiraties) developing the frontend with frameworks like React and Flutter.
 
 <!--
