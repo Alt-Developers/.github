@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/84JP3jb"><img style="width: 100%" src=https://i.ibb.co/NnXWhLr/Github-Org-Banner.png" alt="Github-Org-Banner" border="0" /></a>
+<a href="https://ibb.co/84JP3jb"><img style="width: 100%" src="https://drive.google.com/uc?export=view&id=1kgMcO5YJY4KnqlVL__I12VukLYnJGQFK" alt="Github-Org-Banner" border="0" /></a>
 </div>
 
 ---
