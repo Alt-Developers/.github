@@ -4,7 +4,7 @@
 
 ---
 
-SS Developers is a duo developer group developing web-applications and cross platform applications, who started the coding journey back in september of 2021 and based in Bangkok. We are only developing apps as a hobby not professionaly, with [Prawich Thawansakdivudhi](https://github.com/SEN-SENSATION) developing server-side related stuff with NodeJS and MongoDB and [Jirat Chutrakul](https://github.com/Jiraties) developing the frontend with frameworks like React and Flutter.
+Alternate. (previously SS Developers) is a duo developer group developing web-applications and cross platform applications, who started the coding journey back in september of 2021 and based in Bangkok. We are only developing apps as a hobby not professionaly, with [Prawich Thawansakdivudhi](https://github.com/SEN-SENSATION) developing server-side related stuff with NodeJS and MongoDB and [Jirat Chutrakul](https://github.com/Jiraties) developing the frontend with frameworks like React and Flutter.
 
 <!--
 
